@@ -1,0 +1,3 @@
+[submodule "ElevatorCircuit"]
+	path = ElevatorCircuit
+	url = git@github.com:Kywal/ElevatorCircuit.git
